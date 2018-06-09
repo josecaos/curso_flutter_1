@@ -1,5 +1,5 @@
-<?
+<?php
 
-echo "Errorrrrrrrrr en tag";
+echo "Sin error";
 
 ?>
